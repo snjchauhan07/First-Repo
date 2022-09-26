@@ -147,3 +147,5 @@ window.addEventListener('keydown', e =>{
     }
 
 });
+
+// js in most importance thing to be a developer
